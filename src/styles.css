@@ -1,0 +1,40 @@
+@charset "UTF-8";
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-size: 800%;
+}
+
+
+button {
+  background: transparent;
+  border-color: black;
+}
+
+.x {
+  background-color: rgb(124, 252, 0);
+}
+.o {
+  background-color: rgb(250, 128, 114);
+}
+div.underpar {
+  font: helvetica;
+}
+div.gameend {
+  text-align: center;
+}
+#underpar {
+  text-align: left;
+  text-transform: capitalize;
+  font-size: 30px;
+  
+}
+span {
+  font-size: 30px;
+  font: helvetica;
+  text-align: center;
+  vertical-align: middle;
+}
